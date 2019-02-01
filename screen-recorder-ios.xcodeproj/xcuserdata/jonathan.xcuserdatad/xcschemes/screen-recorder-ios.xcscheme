@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AB90583B22043D8C00A98D7D"
+               BuildableName = "screen-recorder-ios.app"
+               BlueprintName = "screen-recorder-ios"
+               ReferencedContainer = "container:screen-recorder-ios.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AB90583B22043D8C00A98D7D"
+            BuildableName = "screen-recorder-ios.app"
+            BlueprintName = "screen-recorder-ios"
+            ReferencedContainer = "container:screen-recorder-ios.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
